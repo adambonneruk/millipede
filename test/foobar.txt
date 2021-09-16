@@ -1,0 +1,7 @@
+Forename
+Surname
+Bank Details.Account Number
+Bank Details.Sort Code
+Address.Street
+Address.Post Code
+Address.Country
